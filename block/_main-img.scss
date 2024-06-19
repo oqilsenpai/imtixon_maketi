@@ -1,0 +1,18 @@
+.main-img {
+  margin-top: 60px;
+  position: relative;
+  &__size-adjusting {
+    clip-path: polygon(24% 1%, 100% 0%, 100% 100%, 69% 100%, 54% 100%);
+  }
+  &__position {
+    position: absolute;
+    z-index: 1;
+    bottom: -5px;
+  }
+  &__position2 {
+    position: absolute;
+    bottom: 141px;
+    z-index: 1;
+    left: 58px;
+  }
+}

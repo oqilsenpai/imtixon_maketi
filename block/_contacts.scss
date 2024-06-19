@@ -1,0 +1,45 @@
+.contacts {
+  &__design {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+  }
+  &__telephone {
+    font-size: 14px;
+    font-family: "PT Sans", sans-serif;
+    width: 172px;
+    color: #6b6b6c;
+    font-weight: 400;
+  }
+  &__number {
+    font-weight: 600;
+    font-size: 20px;
+  }
+  &__boxs {
+    width: 794px;
+    height: 500px;
+    background-color: #f9f9fb;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+  }
+  &__paragraepth {
+    width: 172px;
+    font-family: "PT Sans", sans-serif;
+    color: #6b6b6c;
+    font-size: 16px;
+    padding-top: 20px;
+  }
+  &__paragraepth2 {
+    width: 307px;
+    font-size: 16px;
+    color: black;
+    font-weight: 600;
+    padding-top: 20px;
+  }
+
+  &__main {
+    display: flex;
+    justify-content: space-between;
+  }
+}

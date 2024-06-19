@@ -1,0 +1,26 @@
+.steps {
+  &__raw-box {
+    width: 1183px;
+    height: 245px;
+    background-color: #00000012;
+  }
+  &__title {
+    font-size: 20px;
+    font-family: "Exo 2", sans-serif;
+    font-weight: 600;
+  }
+  &__hr {
+    width: 86px;
+    height: 2px;
+    background-color: #ffce50;
+    border: 3px solid #ffb700;
+  }
+  &__paragrapth {
+    width: 568px;
+    font-family: "PT Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #6b6b6c;
+  }
+}

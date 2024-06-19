@@ -1,0 +1,29 @@
+.main {
+  &__services {
+    width: 1240px;
+    height: 341px;
+    background-color: #00000010;
+    border: 2px solid white;
+    border-radius: 25px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+  }
+  &__boxes {
+    padding-top: 40px;
+  }
+  &__services-title {
+    margin-top: 13px;
+    width: 228px;
+    font-family: "Exo 2", sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #363738;
+  }
+  &__services-paragripth {
+    font-family: "PT Sans", sans-serif;
+    width: 225px;
+    color: #6b6b6c;
+    margin-bottom: 10px;
+  }
+}

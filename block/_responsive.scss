@@ -1,0 +1,206 @@
+
+@media screen and (max-width: 690px) {
+  .container {
+    width: 659px;
+
+    margin: 0px;
+  }
+  .header {
+    flex-direction: column;
+  }
+  .header__title {
+    width: 748px;
+  }
+  .header__paragripth {
+    width: 515px;
+    font-size: 21px;
+    color: #6b6b6c;
+    line-height: 26px;
+    font-weight: 400;
+  }
+  .header__extra {
+    margin-left: 158px;
+  }
+  .main__boxes {
+    padding-top: 0;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+  }
+  .main__services {
+    background-color: white;
+    flex-direction: column;
+  }
+  .main-img__position {
+    width: 361px;
+    bottom: 15px;
+  }
+  .main-img__size-adjusting {
+    width: 565px;
+    margin-top: 68px;
+  }
+  .header__title {
+    font-size: 30px;
+  }
+  .rest-previous-sc {
+    display: block;
+  }
+  .rest-previous-sc__flex {
+    margin-top: 20px;
+  }
+  .kksiz {
+    display: none;
+  }
+  .workers {
+    margin-top: 90px;
+    margin-bottom: 70px;
+  }
+  .workers__row-box {
+    background-color: white;
+    margin-top: 20px;
+  }
+  .workers__color {
+    width: 514px;
+  }
+  .responiveimgsetngs {
+    width: 565px;
+  }
+  .main__services {
+    width: 0;
+  }
+
+  .steps__raw-box {
+    width: 665px;
+  }
+  .clientslogo__kklijuda {
+    gap: 95px;
+  }
+  .bank-text {
+    padding-top: 15px;
+  }
+  .ps-6 {
+    display: none;
+  }
+  .team-section__boxess {
+    height: 287px;
+  }
+  .contacts__main {
+    flex-direction: column;
+  }
+  .contacts__boxs {
+    width: 594px;
+  }
+  .footer {
+    width: 680px;
+  }
+  .footer__logo {
+    width: 80px;
+    font-size: 30px;
+  }
+  .responsive-content {
+    font-size: 14px;
+    margin-left: 15px;
+    display: block;
+  }
+  .img__position {
+    position: relative;
+    bottom: 15px;
+  }
+  .titlekkli2 {
+    font-size: 15px;
+    position: relative;
+    bottom: 45px;
+  }
+  .steps__raw-box {
+    background-color: white;
+  }
+  .workers__flex {
+    display: block;
+  }
+  .titlekkli2{
+    color: white;
+
+  }
+}
+@media screen and (min-width: 964px) {
+  .clientslogo__kklijuda {
+    gap: 73px;
+  }
+  .titlekkli2{
+    
+    color: white;
+    font-size: 40px;
+  }
+  .kksiz2 {
+    display: none;
+  }
+  .main-img__position2{
+    font-size: 40px;
+  }
+}
+
+@media screen and (min-width: 1920px) { 
+  .clientslogo__kklijuda {
+    gap: 73px;
+  }
+  .titlekkli2{
+    color: white;
+    font-size: 40px;
+  }
+  .kksiz2 {
+    display: none;
+  }
+  .main-img__position2{
+    font-size: 40px;
+  }
+
+} 
+@media screen and (max-width: 345px){
+  .header__title {
+    width: 323px;
+    font-size: 30px;
+  }
+.header__paragripth{
+  width: 344px;
+  font-size: 400;
+  
+}
+.header__extra {
+  margin-left: 0;
+}
+.noneed3{
+  display: none;
+}
+.main-img__position2{
+  margin-top: 30px;
+  top: 48px;
+  left: -6px;
+  color: black; 
+  font-size: 30px;
+  font-weight: 600;
+  width: 345px;
+}
+.rest-previous-sc{
+  margin-top: 100px;
+}
+.steps__paragrapth {
+  width: 430px;
+  font-size: 20px;
+}
+.clientslogo__paragripth4{
+  font-size: 20px;
+}
+.my-4{
+  display: none;
+}
+.contacts__paragraepth{
+  display: none;
+}
+.contacts__boxs{
+  width: 338px;
+}
+.workers__color{
+  width: 275px;
+  font-size: 19px;
+}
+}

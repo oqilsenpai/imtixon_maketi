@@ -1,0 +1,21 @@
+.clientslogo {
+  &__paragripth4 {
+    font-family: "PT Sans", sans-serif;
+    color: #6b6b6c;
+    font-size: 14px;
+  }
+  &____veryneeded {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+  }
+  &__kklijuda {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 130px;
+  }
+  &__boxes {
+    border-right: 2px solid #d7d7dd;
+    width: 201px;
+  }
+}

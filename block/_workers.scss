@@ -1,0 +1,36 @@
+.workers {
+  margin-top: 70px;
+  &__titleex {
+    font-family: "Exo 2", sans-serif;
+    color: #363738;
+    font-size: 48px;
+    font-weight: 500;
+  }
+  &__paragripthll {
+    font-family: "PT Sans", sans-serif;
+
+    font-size: 16px;
+    line-height: 24px;
+    width: 447px;
+    color: #6b6b6c;
+  }
+  &__row-box {
+    background-color: #00000012;
+    width: 394px;
+    height: 400px;
+  }
+  &__borderline {
+    border-bottom: 3px solid #ffce50;
+    width: 100px;
+    
+  }
+  &__color {
+    color: #6b6b6c;
+    font-family: "PT Sans", sans-serif;
+  }
+  &__flex{
+    display: flex;
+    margin-top: 25px;
+  }
+  
+}
